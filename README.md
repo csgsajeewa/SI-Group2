@@ -10,5 +10,7 @@ This repository contains four sub folders. They are,
     b) Sleep_Hours_Hypothesis_Analysis - Hypothesis test to check whether there is a difference of sleep hours between male and                  females
     
     c) Regularity_Medi_Check_CI_Analysis - Confidence interval for the proportion of engineers who are doing medical checkups
+	
+	d) Exercise_proportion_and_Exercise_time_Analysis - Confidence interval for the proportion of engineers who are doing physical exercises and Confidence interval for the mean exercising time of engineers.
     
 4. Results: graphs and figures
