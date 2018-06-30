@@ -24,6 +24,9 @@ for (i in 1:number_of_entries)
 #Histogram of BMI values
 hist(BMI)     #Approximately normal
 
+mean_BMI_sample = mean(BMI)
+std_BMI_sample = sd(BMI)
+
 #Create bootstrap for BMI
 bootstrap_vec = vector()
 number_of_iterations = 1000
