@@ -14,3 +14,5 @@ This repository contains four sub folders. They are,
 	d) Exercise_proportion_and_Exercise_time_Analysis - Confidence interval for the proportion of engineers who are doing physical exercises and Confidence interval for the mean exercising time of engineers.
     
 4. Results: graphs and figures
+
+Questionnaire: https://docs.google.com/forms/d/e/1FAIpQLSfaLoAWErlB1lY8Ecxjjrcvt_NdEp3ugl03-lEOAgDOwuIm1A/viewform
